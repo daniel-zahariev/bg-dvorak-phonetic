@@ -1,0 +1,309 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="910" height="384" viewBox="0 0 910 384" font-family="-apple-system, Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#fafafa"/>
+<rect x="20.0" y="20.0" width="56.1" height="24.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="48.1" y="36.0" font-size="11" fill="#888" text-anchor="middle" font-weight="normal">esc</text>
+<rect x="82.1" y="20.0" width="56.1" height="24.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="110.2" y="36.0" font-size="11" fill="#888" text-anchor="middle" font-weight="normal">F1</text>
+<rect x="144.3" y="20.0" width="56.1" height="24.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="172.4" y="36.0" font-size="11" fill="#888" text-anchor="middle" font-weight="normal">F2</text>
+<rect x="206.4" y="20.0" width="56.1" height="24.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="234.5" y="36.0" font-size="11" fill="#888" text-anchor="middle" font-weight="normal">F3</text>
+<rect x="268.6" y="20.0" width="56.1" height="24.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="296.6" y="36.0" font-size="11" fill="#888" text-anchor="middle" font-weight="normal">F4</text>
+<rect x="330.7" y="20.0" width="56.1" height="24.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="358.8" y="36.0" font-size="11" fill="#888" text-anchor="middle" font-weight="normal">F5</text>
+<rect x="392.9" y="20.0" width="56.1" height="24.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="420.9" y="36.0" font-size="11" fill="#888" text-anchor="middle" font-weight="normal">F6</text>
+<rect x="455.0" y="20.0" width="56.1" height="24.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="483.1" y="36.0" font-size="11" fill="#888" text-anchor="middle" font-weight="normal">F7</text>
+<rect x="517.1" y="20.0" width="56.1" height="24.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="545.2" y="36.0" font-size="11" fill="#888" text-anchor="middle" font-weight="normal">F8</text>
+<rect x="579.3" y="20.0" width="56.1" height="24.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="607.4" y="36.0" font-size="11" fill="#888" text-anchor="middle" font-weight="normal">F9</text>
+<rect x="641.4" y="20.0" width="56.1" height="24.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="669.5" y="36.0" font-size="11" fill="#888" text-anchor="middle" font-weight="normal">F10</text>
+<rect x="703.6" y="20.0" width="56.1" height="24.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="731.6" y="36.0" font-size="11" fill="#888" text-anchor="middle" font-weight="normal">F11</text>
+<rect x="765.7" y="20.0" width="56.1" height="24.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="793.8" y="36.0" font-size="11" fill="#888" text-anchor="middle" font-weight="normal">F12</text>
+<rect x="827.9" y="20.0" width="56.1" height="24.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="855.9" y="36.0" font-size="11" fill="#888" text-anchor="middle" font-weight="normal">⏻</text>
+<rect x="20.0" y="50.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="28.0" y="94.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">ч</text>
+<text x="28.0" y="68.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="67.0" y="94.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">`</text>
+<text x="67.0" y="68.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal">~</text>
+<rect x="80.0" y="50.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="88.0" y="94.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">1</text>
+<text x="88.0" y="68.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal">!</text>
+<text x="127.0" y="94.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">€</text>
+<text x="127.0" y="68.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal">!</text>
+<rect x="140.0" y="50.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="148.0" y="94.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">2</text>
+<text x="148.0" y="68.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal">@</text>
+<text x="187.0" y="94.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">°</text>
+<text x="187.0" y="68.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal">@</text>
+<rect x="200.0" y="50.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="208.0" y="94.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">3</text>
+<text x="208.0" y="68.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal">№</text>
+<text x="247.0" y="94.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">$</text>
+<text x="247.0" y="68.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal">#</text>
+<rect x="260.0" y="50.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="268.0" y="94.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">4</text>
+<text x="268.0" y="68.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal">$</text>
+<text x="307.0" y="94.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">„</text>
+<text x="307.0" y="68.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal">“</text>
+<rect x="320.0" y="50.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="328.0" y="94.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">5</text>
+<text x="328.0" y="68.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal">%</text>
+<text x="367.0" y="94.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">™</text>
+<text x="367.0" y="68.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal">%</text>
+<rect x="380.0" y="50.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="388.0" y="94.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">6</text>
+<text x="388.0" y="68.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal">^</text>
+<text x="427.0" y="94.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">∞</text>
+<text x="427.0" y="68.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal">^</text>
+<rect x="440.0" y="50.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="448.0" y="94.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">7</text>
+<text x="448.0" y="68.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal">&amp;</text>
+<text x="487.0" y="94.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">£</text>
+<text x="487.0" y="68.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal">&amp;</text>
+<rect x="500.0" y="50.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="508.0" y="94.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">8</text>
+<text x="508.0" y="68.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal">*</text>
+<text x="547.0" y="94.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">Ґ</text>
+<text x="547.0" y="68.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal">Ѝ</text>
+<rect x="560.0" y="50.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="568.0" y="94.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">9</text>
+<text x="568.0" y="68.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal">(</text>
+<text x="607.0" y="94.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">¶</text>
+<text x="607.0" y="68.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal">(</text>
+<rect x="620.0" y="50.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="628.0" y="94.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">0</text>
+<text x="628.0" y="68.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal">)</text>
+<text x="667.0" y="94.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">•</text>
+<text x="667.0" y="68.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal">)</text>
+<rect x="680.0" y="50.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="688.0" y="94.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">ш</text>
+<text x="688.0" y="68.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="727.0" y="94.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">[</text>
+<text x="727.0" y="68.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal">{</text>
+<rect x="740.0" y="50.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="748.0" y="94.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">щ</text>
+<text x="748.0" y="68.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="787.0" y="94.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">]</text>
+<text x="787.0" y="68.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal">}</text>
+<rect x="800.0" y="50.0" width="84.0" height="54.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="876.0" y="95.0" font-size="11" fill="#888" text-anchor="end" font-weight="normal">delete</text>
+<rect x="20.0" y="110.0" width="84.0" height="54.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="28.0" y="155.0" font-size="11" fill="#888" text-anchor="start" font-weight="normal">tab</text>
+<rect x="110.0" y="110.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="118.0" y="154.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">'</text>
+<text x="118.0" y="128.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal">"</text>
+<text x="157.0" y="154.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">“</text>
+<text x="157.0" y="128.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal">”</text>
+<rect x="170.0" y="110.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="178.0" y="154.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">,</text>
+<text x="178.0" y="128.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal">&lt;</text>
+<text x="217.0" y="154.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">,</text>
+<text x="217.0" y="128.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal">&lt;</text>
+<rect x="230.0" y="110.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="238.0" y="154.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">.</text>
+<text x="238.0" y="128.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal">&gt;</text>
+<text x="277.0" y="154.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">.</text>
+<text x="277.0" y="128.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal">&gt;</text>
+<rect x="290.0" y="110.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="298.0" y="154.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">п</text>
+<text x="298.0" y="128.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="337.0" y="154.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">p</text>
+<text x="337.0" y="128.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="350.0" y="110.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="358.0" y="154.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">ъ</text>
+<text x="358.0" y="128.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="397.0" y="154.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">y</text>
+<text x="397.0" y="128.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="410.0" y="110.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="418.0" y="154.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">ф</text>
+<text x="418.0" y="128.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="457.0" y="154.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">f</text>
+<text x="457.0" y="128.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="470.0" y="110.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="478.0" y="154.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">г</text>
+<text x="478.0" y="128.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="517.0" y="154.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">g</text>
+<text x="517.0" y="128.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="530.0" y="110.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="538.0" y="154.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">ц</text>
+<text x="538.0" y="128.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="577.0" y="154.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">c</text>
+<text x="577.0" y="128.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="590.0" y="110.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="598.0" y="154.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">р</text>
+<text x="598.0" y="128.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="637.0" y="154.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">r</text>
+<text x="637.0" y="128.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="650.0" y="110.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="658.0" y="154.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">л</text>
+<text x="658.0" y="128.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="697.0" y="154.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">l</text>
+<text x="697.0" y="128.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="710.0" y="110.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="718.0" y="154.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">/</text>
+<text x="718.0" y="128.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal">?</text>
+<text x="757.0" y="154.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">/</text>
+<text x="757.0" y="128.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal">?</text>
+<rect x="770.0" y="110.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="778.0" y="154.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">=</text>
+<text x="778.0" y="128.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal">+</text>
+<text x="817.0" y="154.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">=</text>
+<text x="817.0" y="128.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal">+</text>
+<rect x="830.0" y="110.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="838.0" y="154.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">ю</text>
+<text x="838.0" y="128.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="877.0" y="154.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">\</text>
+<text x="877.0" y="128.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal">|</text>
+<rect x="20.0" y="170.0" width="99.0" height="54.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="28.0" y="215.0" font-size="11" fill="#888" text-anchor="start" font-weight="normal">caps lock</text>
+<rect x="125.0" y="170.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="133.0" y="214.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">а</text>
+<text x="133.0" y="188.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="172.0" y="214.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">a</text>
+<text x="172.0" y="188.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="185.0" y="170.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="193.0" y="214.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">о</text>
+<text x="193.0" y="188.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="232.0" y="214.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">o</text>
+<text x="232.0" y="188.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="245.0" y="170.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="253.0" y="214.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">е</text>
+<text x="253.0" y="188.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="292.0" y="214.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">e</text>
+<text x="292.0" y="188.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="305.0" y="170.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="313.0" y="214.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">у</text>
+<text x="313.0" y="188.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="352.0" y="214.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">u</text>
+<text x="352.0" y="188.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="365.0" y="170.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="373.0" y="214.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">и</text>
+<text x="373.0" y="188.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="412.0" y="214.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">i</text>
+<text x="412.0" y="188.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="425.0" y="170.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="433.0" y="214.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">д</text>
+<text x="433.0" y="188.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="472.0" y="214.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">d</text>
+<text x="472.0" y="188.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="485.0" y="170.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="493.0" y="214.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">х</text>
+<text x="493.0" y="188.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="532.0" y="214.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">h</text>
+<text x="532.0" y="188.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="545.0" y="170.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="553.0" y="214.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">т</text>
+<text x="553.0" y="188.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="592.0" y="214.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">t</text>
+<text x="592.0" y="188.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="605.0" y="170.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="613.0" y="214.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">н</text>
+<text x="613.0" y="188.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="652.0" y="214.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">n</text>
+<text x="652.0" y="188.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="665.0" y="170.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="673.0" y="214.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">с</text>
+<text x="673.0" y="188.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="712.0" y="214.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">s</text>
+<text x="712.0" y="188.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="725.0" y="170.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="733.0" y="214.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">-</text>
+<text x="733.0" y="188.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal">_</text>
+<text x="772.0" y="214.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">–</text>
+<text x="772.0" y="188.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal">—</text>
+<rect x="785.0" y="170.0" width="99.0" height="54.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="876.0" y="215.0" font-size="11" fill="#888" text-anchor="end" font-weight="normal">return</text>
+<rect x="20.0" y="230.0" width="129.0" height="54.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="28.0" y="275.0" font-size="11" fill="#888" text-anchor="start" font-weight="normal">shift</text>
+<rect x="155.0" y="230.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="163.0" y="274.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">;</text>
+<text x="163.0" y="248.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal">:</text>
+<text x="202.0" y="274.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">;</text>
+<text x="202.0" y="248.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal">:</text>
+<rect x="215.0" y="230.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="223.0" y="274.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">я</text>
+<text x="223.0" y="248.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="262.0" y="274.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">q</text>
+<text x="262.0" y="248.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="275.0" y="230.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="283.0" y="274.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">й</text>
+<text x="283.0" y="248.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="322.0" y="274.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">j</text>
+<text x="322.0" y="248.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="335.0" y="230.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="343.0" y="274.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">к</text>
+<text x="343.0" y="248.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="382.0" y="274.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">k</text>
+<text x="382.0" y="248.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="395.0" y="230.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="403.0" y="274.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">ь</text>
+<text x="403.0" y="248.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal">ѝ</text>
+<text x="442.0" y="274.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">x</text>
+<text x="442.0" y="248.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="455.0" y="230.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="463.0" y="274.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">б</text>
+<text x="463.0" y="248.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="502.0" y="274.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">b</text>
+<text x="502.0" y="248.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="515.0" y="230.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="523.0" y="274.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">м</text>
+<text x="523.0" y="248.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="562.0" y="274.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">m</text>
+<text x="562.0" y="248.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="575.0" y="230.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="583.0" y="274.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">в</text>
+<text x="583.0" y="248.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="622.0" y="274.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">w</text>
+<text x="622.0" y="248.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="635.0" y="230.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="643.0" y="274.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">ж</text>
+<text x="643.0" y="248.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="682.0" y="274.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">v</text>
+<text x="682.0" y="248.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="695.0" y="230.0" width="54.0" height="54.0" rx="7" fill="#fff" stroke="#bbb"/>
+<text x="703.0" y="274.0" font-size="22" fill="#111" text-anchor="start" font-weight="bold">з</text>
+<text x="703.0" y="248.0" font-size="14" fill="#666" text-anchor="start" font-weight="normal"></text>
+<text x="742.0" y="274.0" font-size="14" fill="#1f6feb" text-anchor="end" font-weight="normal">z</text>
+<text x="742.0" y="248.0" font-size="14" fill="#8250df" text-anchor="end" font-weight="normal"></text>
+<rect x="755.0" y="230.0" width="129.0" height="54.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="876.0" y="275.0" font-size="11" fill="#888" text-anchor="end" font-weight="normal">shift</text>
+<rect x="20.0" y="290.0" width="54.0" height="54.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="28.0" y="335.0" font-size="11" fill="#888" text-anchor="start" font-weight="normal">fn</text>
+<rect x="80.0" y="290.0" width="54.0" height="54.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="88.0" y="335.0" font-size="11" fill="#888" text-anchor="start" font-weight="normal">control</text>
+<rect x="140.0" y="290.0" width="54.0" height="54.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="148.0" y="335.0" font-size="11" fill="#888" text-anchor="start" font-weight="normal">option</text>
+<rect x="200.0" y="290.0" width="69.0" height="54.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="208.0" y="335.0" font-size="11" fill="#888" text-anchor="start" font-weight="normal">command</text>
+<rect x="275.0" y="290.0" width="294.0" height="54.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="283.0" y="335.0" font-size="11" fill="#888" text-anchor="start" font-weight="normal"></text>
+<rect x="575.0" y="290.0" width="69.0" height="54.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="583.0" y="335.0" font-size="11" fill="#888" text-anchor="start" font-weight="normal">command</text>
+<rect x="650.0" y="290.0" width="54.0" height="54.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="658.0" y="335.0" font-size="11" fill="#888" text-anchor="start" font-weight="normal">option</text>
+<rect x="710.0" y="318.0" width="54.0" height="26.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<rect x="770.0" y="290.0" width="54.0" height="26.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<rect x="770.0" y="318.0" width="54.0" height="26.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<rect x="830.0" y="318.0" width="54.0" height="26.0" rx="7" fill="#f3f3f3" stroke="#bbb"/>
+<text x="737.0" y="334.5" font-size="10" fill="#888" text-anchor="middle" font-weight="normal">◀</text>
+<text x="797.0" y="307.5" font-size="10" fill="#888" text-anchor="middle" font-weight="normal">▲</text>
+<text x="797.0" y="334.5" font-size="10" fill="#888" text-anchor="middle" font-weight="normal">▼</text>
+<text x="857.0" y="334.5" font-size="10" fill="#888" text-anchor="middle" font-weight="normal">▶</text>
+<rect x="20" y="353.0" width="12" height="12" rx="2" fill="#111"/>
+<text x="38.0" y="364.0" font-size="13" fill="#333" text-anchor="start" font-weight="normal">plain</text>
+<rect x="150" y="353.0" width="12" height="12" rx="2" fill="#666"/>
+<text x="168.0" y="364.0" font-size="13" fill="#333" text-anchor="start" font-weight="normal">Shift</text>
+<rect x="280" y="353.0" width="12" height="12" rx="2" fill="#1f6feb"/>
+<text x="298.0" y="364.0" font-size="13" fill="#333" text-anchor="start" font-weight="normal">Option</text>
+<rect x="410" y="353.0" width="12" height="12" rx="2" fill="#8250df"/>
+<text x="428.0" y="364.0" font-size="13" fill="#333" text-anchor="start" font-weight="normal">Shift+Option</text>
+<text x="890.0" y="364.0" font-size="13" fill="#888" text-anchor="end" font-weight="normal">Bulgarian Dvorak · Magic Keyboard (ANSI) · long press и → ѝ</text>
+</svg>
