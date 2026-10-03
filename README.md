@@ -77,6 +77,10 @@ sudo rm "/Library/Keyboard Layouts/Bulgarian Dvorak.keylayout" "/Library/Keyboar
 - The Option layers keep the Latin Dvorak letters, so Latin can be typed without changing the input source.
 - `\` and `|` are on Option and Shift+Option with the ю key. Apple has ‘ ’ there, but this is the only `\` and `|`.
 - Ctrl+letter gives the control code of the Dvorak Latin letter on that key, so Ctrl+C works in Terminal.
+  The Control layer is the same as Apple's Dvorak.
+- Command layers follow Apple's "Bulgarian – QWERTY", but with Dvorak letters:
+  Command and Command+Option give Latin letters, Shift+Command gives Latin capitals and shifted symbols.
+  Command alone is the same as Apple's Dvorak.
 - The `.keylayout` is XML 1.1, because it has control characters.
   `xmllint` cannot read it, but Ukelele and macOS can.
 
@@ -120,5 +124,4 @@ Keys are named by their QWERTY position, with the Dvorak character in brackets.
 
 ## Ideas not done yet
 
-- Check the Command+Option layers and the Control layer against Apple's Dvorak.
 - « » are not on any key.
